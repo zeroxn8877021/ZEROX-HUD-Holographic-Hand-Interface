@@ -6,7 +6,7 @@ readout appears above your hand, tracked frame-by-frame using computer vision.
 
 ## Demo
 
-🔗 **[Live Demo](https://roxn8877021.github.io/zerox-hud/)** *(update this link once hosted — see Hosting section below)*
+🔗 **[Live Demo](https://zeroxn8877021.github.io/ZEROX-HUD-Holographic-Hand-Interface/)** *(ZEROX)*
 
 ## Features
 
