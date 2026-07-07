@@ -4,6 +4,10 @@ A real-time, browser-based AR effect that turns your webcam into a sci-fi hologr
 control interface. Open your palm and a rotating holographic panel with a live "sync"
 readout appears above your hand, tracked frame-by-frame using computer vision.
 
+## Demo
+
+🔗 **[Live Demo](https://roxn8877021.github.io/zerox-hud/)** *(update this link once hosted — see Hosting section below)*
+
 ## Features
 
 - Real-time hand tracking (up to 2 hands) directly in the browser, no install needed
@@ -30,16 +34,28 @@ readout appears above your hand, tracked frame-by-frame using computer vision.
 
 No server, build tools, or dependencies to install — everything loads from CDN.
 
+## Hosting the demo
+
+Since this is a static single-file app, GitHub Pages works well:
+
+1. Push this project to a GitHub repo
+2. Enable GitHub Pages on the repo (Settings → Pages → deploy from main branch)
+3. Replace the demo link above with your Pages URL
+
 ## Credits
 
-Concept, direction, and build by **Paras Sharma** — creator of **Zerox**.
+Built by **Paras Sharma**, working under the creative and technical brand **Zerox** —
+a multi-disciplinary practice spanning game development (Godot 4), web development,
+UI/UX design, and prompt engineering.
 
-Part of the **Zerox** creative & tech ecosystem, alongside **Zerox Nocturne** (music) and
-**hoshinegai** (visual/aesthetic sub-brand).
+Part of the wider Zerox ecosystem:
+- **Zerox Nocturne** — music label
+- **hoshinegai** — visual and aesthetic sub-brand, rooted in dark Japanese aesthetics
 
-Built with [MediaPipe Hands](https://developers.google.com/mediapipe) for hand tracking.
+Hand tracking powered by [MediaPipe Hands](https://developers.google.com/mediapipe).
 
 ## License
 
 Personal / brand project by Zerox. Feel free to remix for your own experiments —
 credit appreciated but not required.
+
